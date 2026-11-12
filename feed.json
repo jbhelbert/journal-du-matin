@@ -1,0 +1,9 @@
+[
+  {
+    "uid": "urn:uuid:journal-du-matin-init",
+    "updateDate": "2026-11-13T00:00:00.0Z",
+    "titleText": "Journal du matin",
+    "mainText": "Bonjour ! Ton journal du matin sera disponible ici chaque jour à partir de 8 heures.",
+    "redirectionUrl": "https://jbhelbert.github.io/journal-du-matin/"
+  }
+]
